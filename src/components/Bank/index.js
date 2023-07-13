@@ -14,7 +14,7 @@ class Bank extends Component {
       PhoneNumber: 9381250033,
 
       Email: 'ravitejasamboju@gmail.com',
-
+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gi
       AadharNumber: 45679969000,
 
       PanNumber: 'CCYPT1120A',
